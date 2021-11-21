@@ -1,0 +1,20 @@
+/* body{
+    background-color: antiquewhite;
+    width: 100%;
+    height: auto;
+} */
+.main-section{
+    background-color: whitesmoke;
+    margin-top: 0px;
+}
+.Memory{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.Storage{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.delivery-cost{
+    margin-bottom: 35px;
+}
